@@ -16,6 +16,7 @@ public class Player : MonoBehaviour
     private float dirX;
     public Button leftButton, rightButton, jumpButton;
     public static Player _instance;
+    public bool canMove;
     private void Awake()
     {
         _instance = this;
@@ -26,8 +27,8 @@ public class Player : MonoBehaviour
         rb_2d = GetComponentInParent<Rigidbody2D>();
         Debug.Log(rb_2d);
         
-        leftButton.onClick.AddListener(() => { Move(1); });
-        rightButton.onClick.AddListener(() => { Move(-1); });
+        /*leftButton.onClick.AddListener(() => { Move(1); });
+        rightButton.onClick.AddListener(() => { Move(-1); });*/
         jumpButton.onClick.AddListener(() =>Jump());
     }
     void Jump()
@@ -40,18 +41,51 @@ public class Player : MonoBehaviour
     }
     private void FixedUpdate()
     {
-        dirX = Input.GetAxis("Horizontal");
-
-        Move((int)dirX);    }
+        //dirX = Input.GetAxis("Horizontal");
+        rb_2d.velocity.Set(dirX * move_speed, rb_2d.velocity.y);
+       
+            
+    }
     public  void Move(int dir)
     {
-                   rb_2d.velocity = new Vector2(dir * move_speed, rb_2d.velocity.y);
-                    
+        if (dir > 0)
+        {
+            spr.flipX = false;
+        }
+        else
+        {
+            spr.flipX = true;
+        }
+        dirX = dir;
+        canMove = true;
+        anim.SetBool("runing", true);
+
+    }
+    public void UnMove()
+    {
+        canMove = false;
+        dirX = 0;
+        rb_2d.velocity = new Vector2(0, rb_2d.velocity.y);
+        anim.SetBool("runing", false);
 
     }
     void Update()
     {
-       if (Input.GetKeyDown(KeyCode.Space) && Is_grounded())
+                /* if (canMove)
+         {
+             Debug.Log(dirX);
+             anim.SetBool("runing", true);
+
+         }
+         else
+         {
+
+             anim.SetBool("runing", false);
+
+         }*/
+        Debug.Log(dirX);
+            rb_2d.velocity = new Vector2(dirX * move_speed, rb_2d.velocity.y);
+        if (Input.GetKeyDown(KeyCode.Space) && Is_grounded())
         {
             rb_2d.AddForce(Vector2.up * jump_force, ForceMode2D.Impulse);
         }
@@ -69,20 +103,35 @@ public class Player : MonoBehaviour
     }
     private void UpdateAnimationUpdate()
     {
-        
-
-        if (dirX > 0f)
+        if (rb_2d.velocity.x == 0f)
         {
-            Debug.Log(dirX);
-            anim.SetBool("runing", true);
+            anim.SetBool("runing", false);
 
         }
-        else if (dirX < 0f)
+        if (rb_2d.velocity.x != 0)
         {
-            Debug.Log(dirX);
+
             anim.SetBool("runing", true);
+
         }
         else
+        {
+
+            anim.SetBool("runing", true);
+
+        }
+
+        if (rb_2d.velocity.x > 0f)
+        {
+            anim.SetBool("runing", true);
+
+        }
+        else if (rb_2d.velocity.x < 0f)
+        {
+            anim.SetBool("runing", true);
+        }
+        else if (rb_2d.velocity.x == 0)
+
         {
             anim.SetBool("runing", false);
         }
