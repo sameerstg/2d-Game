@@ -1,0 +1,720 @@
+fileFormatVersion: 2
+guid: 7aa44bd94b9c29747be6c2f7a79a401b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5978501057966236925
+    second: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_0
+  - first:
+      213: -2513108510667376842
+    second: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_1
+  - first:
+      213: -3277314015894585330
+    second: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_2
+  - first:
+      213: -7502296965734633382
+    second: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_3
+  - first:
+      213: -9215734286480291186
+    second: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_4
+  - first:
+      213: 2864595515957895072
+    second: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_5
+  - first:
+      213: 7768916226665436186
+    second: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_6
+  - first:
+      213: -4425483732268921147
+    second: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_7
+  - first:
+      213: 1047605420377406386
+    second: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_8
+  - first:
+      213: 5395894599760384872
+    second: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_9
+  - first:
+      213: -2696715699449427535
+    second: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_10
+  - first:
+      213: -8476390219716225656
+    second: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_11
+  - first:
+      213: -5518698900133513293
+    second: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_12
+  - first:
+      213: -7248574203573010781
+    second: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_13
+  - first:
+      213: 4975518365306668138
+    second: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_14
+  - first:
+      213: -7134977652556293058
+    second: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_15
+  - first:
+      213: -6502435194042036544
+    second: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_16
+  - first:
+      213: -8280111260803815194
+    second: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_17
+  - first:
+      213: 6771496212410640494
+    second: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_18
+  - first:
+      213: -8897219426371506802
+    second: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_19
+  - first:
+      213: 7255884039162582160
+    second: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_20
+  - first:
+      213: -3617884327010383269
+    second: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_21
+  - first:
+      213: -9199158877143057117
+    second: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_22
+  - first:
+      213: -277128719260730660
+    second: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_23
+  - first:
+      213: 4776383612753512903
+    second: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 221
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4ef596907e7f250800000000000000
+      internalID: 5978501057966236925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 222
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637f8a3ef15af1dd0800000000000000
+      internalID: -2513108510667376842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 222
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00c1393444a482d0800000000000000
+      internalID: -3277314015894585330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 222
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5075e598ac72e790800000000000000
+      internalID: -7502296965734633382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 221
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a44f55e722b1080800000000000000
+      internalID: -9215734286480291186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 173
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afd8d9c17611c720800000000000000
+      internalID: 2864595515957895072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 173
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14592c852cb0db60800000000000000
+      internalID: 7768916226665436186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 173
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce47d22ef58592c0800000000000000
+      internalID: -4425483732268921147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 173
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb7e525497d98e00800000000000000
+      internalID: 1047605420377406386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 173
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8639a20cc8112ea40800000000000000
+      internalID: 5395894599760384872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 125
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b90912fb57539ad0800000000000000
+      internalID: -2696715699449427535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 125
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88518384100dd5a80800000000000000
+      internalID: -8476390219716225656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 125
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7f333f694a963b0800000000000000
+      internalID: -5518698900133513293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 125
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae78fb9a24e76b90800000000000000
+      internalID: -7248574203573010781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 125
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64498187979c0540800000000000000
+      internalID: 4975518365306668138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 76
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c1803b0a77bfc90800000000000000
+      internalID: -7134977652556293058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 76
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce402474a5b2c5a0800000000000000
+      internalID: -6502435194042036544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 76
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8a31f9da2271d80800000000000000
+      internalID: -8280111260803815194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 76
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68a3a2adef29fd50800000000000000
+      internalID: 6771496212410640494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 76
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8deb6a321ab68480800000000000000
+      internalID: -8897219426371506802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 28
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09456bd171412b460800000000000000
+      internalID: 7255884039162582160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 28
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ac71a7f51bacdc0800000000000000
+      internalID: -3617884327010383269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 28
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32db18f8db5065080800000000000000
+      internalID: -9199158877143057117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 28
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdab76be5e0772cf0800000000000000
+      internalID: -277128719260730660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 28
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c98b25e69f194240800000000000000
+      internalID: 4776383612753512903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
