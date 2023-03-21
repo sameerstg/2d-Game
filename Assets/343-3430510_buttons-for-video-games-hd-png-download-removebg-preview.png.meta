@@ -78,7 +78,7 @@ TextureImporter:
       213: 4776383612753512903
     second: 343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_24
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -99,6 +99,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -137,6 +138,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -164,6 +166,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -712,6 +726,32 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_18: 6771496212410640494
+      343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_8: 1047605420377406386
+      343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_13: -7248574203573010781
+      343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_17: -8280111260803815194
+      343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_19: -8897219426371506802
+      343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_0: 5978501057966236925
+      343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_11: -8476390219716225656
+      343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_15: -7134977652556293058
+      343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_9: 5395894599760384872
+      343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_6: 7768916226665436186
+      343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_16: -6502435194042036544
+      343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_4: -9215734286480291186
+      343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_23: -277128719260730660
+      343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_24: 4776383612753512903
+      343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_3: -7502296965734633382
+      343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_12: -5518698900133513293
+      343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_21: -3617884327010383269
+      343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_5: 2864595515957895072
+      343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_14: 4975518365306668138
+      343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_7: -4425483732268921147
+      343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_1: -2513108510667376842
+      343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_10: -2696715699449427535
+      343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_20: 7255884039162582160
+      343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_22: -9199158877143057117
+      343-3430510_buttons-for-video-games-hd-png-download-removebg-preview_2: -3277314015894585330
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -72,7 +72,7 @@ TextureImporter:
       213: -4242831937392867667
     second: yeahhh dude bruhh_22
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -93,6 +93,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -131,6 +132,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -158,6 +160,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -664,6 +678,30 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      yeahhh dude bruhh_17: 8463435914195378962
+      yeahhh dude bruhh_10: 6736559525717770585
+      yeahhh dude bruhh_11: 2223927548454347935
+      yeahhh dude bruhh_5: 8512237083916630189
+      yeahhh dude bruhh_2: 6392100903821335375
+      yeahhh dude bruhh_12: 7189584556054547044
+      yeahhh dude bruhh_20: -3751579509756601345
+      yeahhh dude bruhh_19: 6604958090914087288
+      yeahhh dude bruhh_0: 8367600786759127785
+      yeahhh dude bruhh_8: 1061811881940294533
+      yeahhh dude bruhh_14: 7720945635627689112
+      yeahhh dude bruhh_18: -5179962384334472845
+      yeahhh dude bruhh_1: 8163522307716498277
+      yeahhh dude bruhh_16: 372244181127235840
+      yeahhh dude bruhh_13: 7158849747214989059
+      yeahhh dude bruhh_7: 556299889690555823
+      yeahhh dude bruhh_15: 8765230914535714709
+      yeahhh dude bruhh_9: -492493444877293375
+      yeahhh dude bruhh_21: -6876483348857335196
+      yeahhh dude bruhh_6: 8246316725622712222
+      yeahhh dude bruhh_22: -4242831937392867667
+      yeahhh dude bruhh_3: 5897007831398774950
+      yeahhh dude bruhh_4: -6637807399647141708
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

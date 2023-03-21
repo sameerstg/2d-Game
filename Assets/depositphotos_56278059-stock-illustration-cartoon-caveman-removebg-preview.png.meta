@@ -30,7 +30,7 @@ TextureImporter:
       213: 2673215724928113204
     second: depositphotos_56278059-stock-illustration-cartoon-caveman-removebg-preview_8
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -51,6 +51,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -89,6 +90,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -116,6 +118,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -328,6 +342,16 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      depositphotos_56278059-stock-illustration-cartoon-caveman-removebg-preview_2: 7651572269080510175
+      depositphotos_56278059-stock-illustration-cartoon-caveman-removebg-preview_0: 2761079168531238610
+      depositphotos_56278059-stock-illustration-cartoon-caveman-removebg-preview_8: 2673215724928113204
+      depositphotos_56278059-stock-illustration-cartoon-caveman-removebg-preview_3: 7793164943199048896
+      depositphotos_56278059-stock-illustration-cartoon-caveman-removebg-preview_5: -7030814605927903126
+      depositphotos_56278059-stock-illustration-cartoon-caveman-removebg-preview_6: 896351511167919315
+      depositphotos_56278059-stock-illustration-cartoon-caveman-removebg-preview_7: 3798497263795905232
+      depositphotos_56278059-stock-illustration-cartoon-caveman-removebg-preview_4: 1102886466004535257
+      depositphotos_56278059-stock-illustration-cartoon-caveman-removebg-preview_1: 2063568915793303530
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
